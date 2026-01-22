@@ -1,0 +1,5 @@
+langgraph
+langchain-mongodb
+langchain-openai
+pypdf
+python-dotenv
